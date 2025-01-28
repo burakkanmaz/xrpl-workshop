@@ -1,3 +1,3 @@
-# Beeply NFT Certificate Generator with XRPL
+# Building on the XRP Ledger
 
-This is a simple NFT certificate generator that uses the XRPL to create a unique NFT for each certificate. The certificate is stored on the XRPL as a memo on a transaction. The certificate is generated using the Beeply API.
+This repository contains the source code for the [Building on the XRP Ledger](https://www.xrpl-commons.org/training/building-on-the-xrp-ledger-7) training course.
