@@ -8,7 +8,7 @@ import { convertStringToHexPadded } from './functions/convertStringToHexPadded';
 function App() {
   const [logs, setLogs] = useState([] as string[]);
   const client = new xrpl.Client("wss://testnet.xrpl-labs.com");
-  const tokenName = "BP3";
+  const tokenName = "BPT";
 
   const log = (message: string) => {
     setLogs((logs) => [message, ...logs]);

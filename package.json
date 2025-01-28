@@ -11,9 +11,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@noble/curves": "^1.8.1",
     "axios": "^1.7.9",
+    "buffer": "^6.0.3",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
+    "tweetnacl": "^1.0.3",
     "xrpl": "^4.1.0"
   },
   "devDependencies": {
